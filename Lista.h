@@ -24,7 +24,7 @@ private:
         }
     };
 
-    node* first, last, tek;
+    node* first, *last, *tek;
 
     int br=0;
 

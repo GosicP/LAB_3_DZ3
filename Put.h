@@ -16,13 +16,14 @@ Lista<Tacka*> lista_tacaka;
 
 public:
 
-    void operator+=(Tacka *t){
+    Put& operator+=(Tacka *t){
         for(int i=0; i<lista_tacaka.getBr(); i++){
             if(t==lista_tacaka.dohvSaPozicije(i)){
                 throw GTackaPostoji();
             }
         }
         lista_tacaka+=t;
+        return *this;
     }
 
     double izracunajDuzinuPuta(){
