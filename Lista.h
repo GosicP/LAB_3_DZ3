@@ -41,6 +41,12 @@ private:
 
 public:
 
+    Lista() {
+        first=nullptr;
+        last=nullptr;
+        tek=nullptr;
+    }
+
     Lista(const Lista& l){
         kopiraj();
     }
@@ -55,7 +61,7 @@ public:
 
     Lista& operator += (T& podatak){
         last=(!first ? first : last->next)=new node(podatak);
-        last.pozicija=br;
+        last->pozicija=br;
         br++;
         return *this;
     }

@@ -13,8 +13,15 @@ class GTackaPostoji: public exception{
 class Put {
 private:
 Lista<Tacka*> lista_tacaka;
-
+protected:
+virtual void pisi(ostream& os){
+    for(int i=0; i<lista_tacaka.getBr(); i++){
+        os<<*lista_tacaka.dohvSaPozicije(i)<<endl;
+    }
+}
 public:
+
+    Put() : lista_tacaka(){};
 
     Put& operator+=(Tacka *t){
         for(int i=0; i<lista_tacaka.getBr(); i++){
@@ -36,7 +43,10 @@ public:
         return ukupna_udaljenost;
     }
 
-
+    friend ostream& operator<< (ostream& os, Put& p){
+        p.pisi(os);
+        return os;
+    }
 };
 
 
