@@ -142,32 +142,32 @@ LAB_3_DZ3/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LAB_3_DZ3.dir\build.make CMakeFiles/LAB_3_DZ3.dir/build
 .PHONY : LAB_3_DZ3/fast
 
-Put.obj: Put.cpp.obj
+Vozilo.obj: Vozilo.cpp.obj
 
-.PHONY : Put.obj
+.PHONY : Vozilo.obj
 
 # target to build an object file
-Put.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LAB_3_DZ3.dir\build.make CMakeFiles/LAB_3_DZ3.dir/Put.cpp.obj
-.PHONY : Put.cpp.obj
+Vozilo.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LAB_3_DZ3.dir\build.make CMakeFiles/LAB_3_DZ3.dir/Vozilo.cpp.obj
+.PHONY : Vozilo.cpp.obj
 
-Put.i: Put.cpp.i
+Vozilo.i: Vozilo.cpp.i
 
-.PHONY : Put.i
+.PHONY : Vozilo.i
 
 # target to preprocess a source file
-Put.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LAB_3_DZ3.dir\build.make CMakeFiles/LAB_3_DZ3.dir/Put.cpp.i
-.PHONY : Put.cpp.i
+Vozilo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LAB_3_DZ3.dir\build.make CMakeFiles/LAB_3_DZ3.dir/Vozilo.cpp.i
+.PHONY : Vozilo.cpp.i
 
-Put.s: Put.cpp.s
+Vozilo.s: Vozilo.cpp.s
 
-.PHONY : Put.s
+.PHONY : Vozilo.s
 
 # target to generate assembly for a file
-Put.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LAB_3_DZ3.dir\build.make CMakeFiles/LAB_3_DZ3.dir/Put.cpp.s
-.PHONY : Put.cpp.s
+Vozilo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LAB_3_DZ3.dir\build.make CMakeFiles/LAB_3_DZ3.dir/Vozilo.cpp.s
+.PHONY : Vozilo.cpp.s
 
 main.obj: main.cpp.obj
 
@@ -205,9 +205,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... LAB_3_DZ3
-	@echo ... Put.obj
-	@echo ... Put.i
-	@echo ... Put.s
+	@echo ... Vozilo.obj
+	@echo ... Vozilo.i
+	@echo ... Vozilo.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

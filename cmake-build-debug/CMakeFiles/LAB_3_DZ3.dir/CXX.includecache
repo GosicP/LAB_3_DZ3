@@ -12,10 +12,6 @@ exception
 iostream
 -
 
-C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/Put.cpp
-Put.h
-C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/Put.h
-
 C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/Put.h
 Tacka.h
 C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/Tacka.h
@@ -30,6 +26,12 @@ iostream
 cmath
 -
 
+C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/Vozilo.h
+iostream
+-
+Put.h
+C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/Put.h
+
 C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/main.cpp
 iostream
 -
@@ -37,4 +39,6 @@ Tacka.h
 C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/Tacka.h
 Put.h
 C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/Put.h
+Vozilo.h
+C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/Vozilo.h
 

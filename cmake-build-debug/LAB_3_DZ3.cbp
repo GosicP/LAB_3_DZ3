@@ -85,13 +85,16 @@
 		<Unit filename="C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/Lista.h">
 			<Option target="LAB_3_DZ3"/>
 		</Unit>
-		<Unit filename="C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/Put.cpp">
-			<Option target="LAB_3_DZ3"/>
-		</Unit>
 		<Unit filename="C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/Put.h">
 			<Option target="LAB_3_DZ3"/>
 		</Unit>
 		<Unit filename="C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/Tacka.h">
+			<Option target="LAB_3_DZ3"/>
+		</Unit>
+		<Unit filename="C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/Vozilo.cpp">
+			<Option target="LAB_3_DZ3"/>
+		</Unit>
+		<Unit filename="C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/Vozilo.h">
 			<Option target="LAB_3_DZ3"/>
 		</Unit>
 		<Unit filename="C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/main.cpp">

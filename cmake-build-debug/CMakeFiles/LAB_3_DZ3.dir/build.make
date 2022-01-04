@@ -89,29 +89,29 @@ CMakeFiles/LAB_3_DZ3.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LAB_3_DZ3.dir/main.cpp.s"
 	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Pavle\CLionProjects\Vezba\LAB_3_DZ3\main.cpp -o CMakeFiles\LAB_3_DZ3.dir\main.cpp.s
 
-CMakeFiles/LAB_3_DZ3.dir/Put.cpp.obj: CMakeFiles/LAB_3_DZ3.dir/flags.make
-CMakeFiles/LAB_3_DZ3.dir/Put.cpp.obj: ../Put.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Pavle\CLionProjects\Vezba\LAB_3_DZ3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/LAB_3_DZ3.dir/Put.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LAB_3_DZ3.dir\Put.cpp.obj -c C:\Users\Pavle\CLionProjects\Vezba\LAB_3_DZ3\Put.cpp
+CMakeFiles/LAB_3_DZ3.dir/Vozilo.cpp.obj: CMakeFiles/LAB_3_DZ3.dir/flags.make
+CMakeFiles/LAB_3_DZ3.dir/Vozilo.cpp.obj: ../Vozilo.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Pavle\CLionProjects\Vezba\LAB_3_DZ3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/LAB_3_DZ3.dir/Vozilo.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LAB_3_DZ3.dir\Vozilo.cpp.obj -c C:\Users\Pavle\CLionProjects\Vezba\LAB_3_DZ3\Vozilo.cpp
 
-CMakeFiles/LAB_3_DZ3.dir/Put.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LAB_3_DZ3.dir/Put.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Pavle\CLionProjects\Vezba\LAB_3_DZ3\Put.cpp > CMakeFiles\LAB_3_DZ3.dir\Put.cpp.i
+CMakeFiles/LAB_3_DZ3.dir/Vozilo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LAB_3_DZ3.dir/Vozilo.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Pavle\CLionProjects\Vezba\LAB_3_DZ3\Vozilo.cpp > CMakeFiles\LAB_3_DZ3.dir\Vozilo.cpp.i
 
-CMakeFiles/LAB_3_DZ3.dir/Put.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LAB_3_DZ3.dir/Put.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Pavle\CLionProjects\Vezba\LAB_3_DZ3\Put.cpp -o CMakeFiles\LAB_3_DZ3.dir\Put.cpp.s
+CMakeFiles/LAB_3_DZ3.dir/Vozilo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LAB_3_DZ3.dir/Vozilo.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Pavle\CLionProjects\Vezba\LAB_3_DZ3\Vozilo.cpp -o CMakeFiles\LAB_3_DZ3.dir\Vozilo.cpp.s
 
 # Object files for target LAB_3_DZ3
 LAB_3_DZ3_OBJECTS = \
 "CMakeFiles/LAB_3_DZ3.dir/main.cpp.obj" \
-"CMakeFiles/LAB_3_DZ3.dir/Put.cpp.obj"
+"CMakeFiles/LAB_3_DZ3.dir/Vozilo.cpp.obj"
 
 # External object files for target LAB_3_DZ3
 LAB_3_DZ3_EXTERNAL_OBJECTS =
 
 LAB_3_DZ3.exe: CMakeFiles/LAB_3_DZ3.dir/main.cpp.obj
-LAB_3_DZ3.exe: CMakeFiles/LAB_3_DZ3.dir/Put.cpp.obj
+LAB_3_DZ3.exe: CMakeFiles/LAB_3_DZ3.dir/Vozilo.cpp.obj
 LAB_3_DZ3.exe: CMakeFiles/LAB_3_DZ3.dir/build.make
 LAB_3_DZ3.exe: CMakeFiles/LAB_3_DZ3.dir/linklibs.rsp
 LAB_3_DZ3.exe: CMakeFiles/LAB_3_DZ3.dir/objects1.rsp

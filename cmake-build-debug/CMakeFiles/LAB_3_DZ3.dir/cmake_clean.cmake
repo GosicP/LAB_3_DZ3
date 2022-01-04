@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/LAB_3_DZ3.dir/Put.cpp.obj"
+  "CMakeFiles/LAB_3_DZ3.dir/Vozilo.cpp.obj"
   "CMakeFiles/LAB_3_DZ3.dir/main.cpp.obj"
   "LAB_3_DZ3.exe"
   "LAB_3_DZ3.exe.manifest"
