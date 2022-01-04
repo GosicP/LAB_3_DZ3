@@ -48,11 +48,11 @@ public:
     }
 
     Lista(const Lista& l){
-        kopiraj();
+        kopiraj(l);
     }
 
     Lista(Lista&& l){
-        premesti();
+        premesti(l);
     }
 
     ~Lista(){

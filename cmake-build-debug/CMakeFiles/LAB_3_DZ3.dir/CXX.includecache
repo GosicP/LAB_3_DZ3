@@ -6,39 +6,43 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/Lista.h
+C:/Users/zeljk/OneDrive - student.etf.bg.ac.rs/Documents/GitHub/LAB_3_DZ3/Lista.h
 exception
 -
 iostream
 -
 
-C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/Put.h
+C:/Users/zeljk/OneDrive - student.etf.bg.ac.rs/Documents/GitHub/LAB_3_DZ3/Put.h
 Tacka.h
-C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/Tacka.h
+C:/Users/zeljk/OneDrive - student.etf.bg.ac.rs/Documents/GitHub/LAB_3_DZ3/Tacka.h
 Lista.h
-C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/Lista.h
+C:/Users/zeljk/OneDrive - student.etf.bg.ac.rs/Documents/GitHub/LAB_3_DZ3/Lista.h
 
-C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/Tacka.h
+C:/Users/zeljk/OneDrive - student.etf.bg.ac.rs/Documents/GitHub/LAB_3_DZ3/Tacka.h
 Lista.h
-C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/Lista.h
+C:/Users/zeljk/OneDrive - student.etf.bg.ac.rs/Documents/GitHub/LAB_3_DZ3/Lista.h
 iostream
 -
 cmath
 -
 
-C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/Vozilo.h
+C:/Users/zeljk/OneDrive - student.etf.bg.ac.rs/Documents/GitHub/LAB_3_DZ3/Vozilo.cpp
+Vozilo.h
+C:/Users/zeljk/OneDrive - student.etf.bg.ac.rs/Documents/GitHub/LAB_3_DZ3/Vozilo.h
+
+C:/Users/zeljk/OneDrive - student.etf.bg.ac.rs/Documents/GitHub/LAB_3_DZ3/Vozilo.h
 iostream
 -
 Put.h
-C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/Put.h
+C:/Users/zeljk/OneDrive - student.etf.bg.ac.rs/Documents/GitHub/LAB_3_DZ3/Put.h
 
-C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/main.cpp
+C:/Users/zeljk/OneDrive - student.etf.bg.ac.rs/Documents/GitHub/LAB_3_DZ3/main.cpp
 iostream
 -
 Tacka.h
-C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/Tacka.h
+C:/Users/zeljk/OneDrive - student.etf.bg.ac.rs/Documents/GitHub/LAB_3_DZ3/Tacka.h
 Put.h
-C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/Put.h
+C:/Users/zeljk/OneDrive - student.etf.bg.ac.rs/Documents/GitHub/LAB_3_DZ3/Put.h
 Vozilo.h
-C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/Vozilo.h
+C:/Users/zeljk/OneDrive - student.etf.bg.ac.rs/Documents/GitHub/LAB_3_DZ3/Vozilo.h
 
