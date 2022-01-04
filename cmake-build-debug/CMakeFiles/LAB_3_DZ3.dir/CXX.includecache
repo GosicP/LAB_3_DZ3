@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/Lista.h
+exception
+-
+iostream
+-
+
+C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/Put.cpp
+Put.h
+C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/Put.h
+
+C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/Put.h
+Tacka.h
+C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/Tacka.h
+Lista.h
+C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/Lista.h
+
+C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/Tacka.h
+Lista.h
+C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/Lista.h
+iostream
+-
+cmath
+-
+
+C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/main.cpp
+iostream
+-
+Tacka.h
+C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/Tacka.h
+Put.h
+C:/Users/Pavle/CLionProjects/Vezba/LAB_3_DZ3/Put.h
+
