@@ -4,6 +4,7 @@ using namespace std;
 #include "Put.h"
 #include "Vozilo.h"
 int main() {
+    //try catch ubaci
     double udaljenost;
     double cena;
     Tacka *t1=new Tacka(3, 4);
@@ -12,6 +13,7 @@ int main() {
     Put p;
     p+=t1;
     p+=t2;
+    p+=t3;
     p+=t3;
     Vozilo v("Fiat Punto");
     udaljenost=p.izracunajDuzinuPuta();
