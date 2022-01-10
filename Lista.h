@@ -34,6 +34,7 @@ private:
         first=l.first;
         last=l.last;
         tek=l.tek;
+        br=l.br;
         l.first=l.last=nullptr;
     };
 
@@ -96,6 +97,8 @@ void Lista<T>::kopiraj(const Lista& l){
     first=last=tek=nullptr;
     for (node* temp=l.first ; temp ; temp=temp->next){
         last = (!first ? first : last->next) = new node(temp->pod);
+        last->pozicija=br;
+        br++;
     }
 }
 

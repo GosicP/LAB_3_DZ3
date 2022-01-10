@@ -8,7 +8,7 @@ using namespace std;
 class Vozilo {
 private:
     string tip_vozila;
-    int startna_cena=120;
+    int startna_cena=0;
     virtual void pisi(ostream& os){
         os<<tip_vozila;
     }
@@ -18,11 +18,7 @@ public:
         tip_vozila=vehicle_type;
     }
 
-    double izracunajCenu(Put p){
-        double cena_puta;
-        cena_puta=startna_cena+p.izracunajDuzinuPuta()*0.1;
-        return cena_puta;
-    }
+    virtual double izracunajCenu(Put p) {}
 
     friend ostream& operator<<(ostream& os, Vozilo& v){
         v.pisi(os);

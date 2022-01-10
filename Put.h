@@ -36,7 +36,7 @@ public:
     double izracunajDuzinuPuta(){
         double ukupna_udaljenost=0;
         for(int i=0; i<lista_tacaka.getBr(); i++){
-            if(i!=0 && i!=lista_tacaka.getBr()){
+            if(i!=0 and i!=lista_tacaka.getBr()){
                 ukupna_udaljenost=ukupna_udaljenost+lista_tacaka.dohvSaPozicije(i)->izracunajUdaljenost(*lista_tacaka.dohvSaPozicije(i-1));
             }
         }
